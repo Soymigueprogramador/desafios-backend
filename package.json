@@ -1,0 +1,11 @@
+{
+  "name": "desafios-backend",
+  "version": "1.0.0",
+  "description": "Estos van hacer los desafios del curso de programacion backed ",
+  "main": "\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001bapp\u001b[C\u001b\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Miguel salazar",
+  "license": "ISC"
+}
